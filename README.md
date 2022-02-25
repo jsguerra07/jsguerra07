@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Sebastian G
-A Software developer from Bogotá, Colombia.
+A Full Stack Developer from Bogotá, Colombia.
 
 - 🔭 I’m currently working on petCare mobileApp 
 - 🌱 I’m currently learning React Native
