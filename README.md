@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Sebastian G
 A Full Stack Developer from Bogotá, Colombia.
 
-- 🔭 I’m currently working on **petCare mobileApp (Final project for Henry Bootcamp)**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **diferent random projects**
+- 🌱 I’m currently learning **Typescript**
 - 📫 How to reach me: **js.guerra07@hotmail.com**
 - ⚡ Fun fact: I´m also an Architect
 
